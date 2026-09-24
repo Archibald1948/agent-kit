@@ -1,9 +1,11 @@
 # agent-kit
 
-AI 에이전트(GPT, Claude 등)를 강화하는 도구 모음입니다.
+AI 에이전트(GPT, Claude 등)를 강화하는 도구 모음입니다. <br/>
 유튜브 채널 **게으른 빌더**([lazyowen.com](https://lazyowen.com))에서 소개된 도구를 중심으로 정리했습니다.
 
-> 마지막 확인: 2026-09-24. 설치 명령은 각 공식 페이지에서 그대로 옮겼습니다. 설치하기 전에 공식 저장소에서 최신 명령을 다시 확인하세요.
+```
+마지막 확인: 2026-09-24. 설치 명령은 각 공식 페이지에서 그대로 옮겼습니다. 설치하기 전에 공식 저장소에서 최신 명령을 다시 확인하세요.
+```
 
 ## 목차
 
@@ -14,8 +16,6 @@ AI 에이전트(GPT, Claude 등)를 강화하는 도구 모음입니다.
 - [자율 에이전트 (실험용)](#자율-에이전트-실험용)
 - [게으른 빌더 가이드 원문](#게으른-빌더-가이드-원문)
 - [Claude Code에게 넘길 때](#claude-code에게-넘길-때)
-
----
 
 ## 정보 수집·리서치
 
@@ -97,7 +97,9 @@ npx ecc-universal install --guided
 
 ## 자율 에이전트 (실험용)
 
-> ⚠️ 두 도구 모두 **암호화폐 지갑과 실제 돈**이 얽혀 있습니다. 지갑에 돈을 넣는 순간부터 비용이 빠져나가니, 설치해 보더라도 입금은 신중하게 결정하세요.
+```
+⚠️ 두 도구 모두 **암호화폐 지갑과 실제 돈**이 얽혀 있습니다. 지갑에 돈을 넣는 순간부터 비용이 빠져나가니, 설치해 보더라도 입금은 신중하게 결정하세요.
+```
 
 | 도구 | 한 줄 소개 | 링크 |
 | --- | --- | --- |
@@ -109,8 +111,6 @@ npx ecc-universal install --guided
 git clone https://github.com/Conway-Research/automaton.git
 cd automaton && pnpm install && pnpm build
 ```
-
----
 
 ## 게으른 빌더 가이드 원문
 
@@ -135,4 +135,4 @@ cd automaton && pnpm install && pnpm build
 
 ## License
 
-MIT
+[MIT](https://github.com/Archibald1948/agent-kit/blob/main/LICENSE)

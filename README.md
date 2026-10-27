@@ -1,4 +1,4 @@
-# agent-kit
+# 🚀agent-kit
 
 AI 에이전트(GPT, Claude 등)를 강화하는 도구 모음입니다. <br/>
 유튜브 채널 **게으른 빌더**([lazyowen.com](https://lazyowen.com))에서 소개된 도구를 중심으로 정리했습니다.
